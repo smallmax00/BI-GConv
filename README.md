@@ -10,11 +10,11 @@ Dependencies: requirements.txt
 --------------------------------
 # -test-
 
---Download best_model.pth and put into ../model/oc_od/ODOC_BMVC_48_bs_beta_0.1_base_lr_0.006/
+--Download best_model.pth and put it into ../model/oc_od/ODOC_BMVC_48_bs_beta_0.1_base_lr_0.006/
 
 Link: 
 
---The index of test data is in h5py_all/test.txt
+--The index of test data is in oc_od/h5py_all/test.txt
 
 --Prepare the Test data , then put them into your_folder/oc_od/h5py_all
 
@@ -34,7 +34,7 @@ Link:
 --------------Polys-----------------
 ---------------------------------
 
---Download best_model.pth and put into ../model/poly/ODOC_BMVC_48_bs_beta_0.1_base_lr_0.006/
+--Download best_model.pth and put into ../model/poly/polys_BMVC_48_bs_beta_0.1_base_lr_0.006/
 
 Link: 
 

@@ -1,5 +1,5 @@
-# BIG-Conv: Boundary-Aware Input-Dependent Graph Convolution for Biomedical Image Segmentation 
-BI-GConv_BMVC2021_submission
+# BI-GConv: Boundary-Aware Input-Dependent Graph Convolution for Biomedical Image Segmentation 
+# BI-GConv_BMVC2021_submission
 
 ---------------------------
 Dependencies: requirements.txt

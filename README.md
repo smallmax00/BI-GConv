@@ -12,7 +12,7 @@ Dependencies: requirements.txt
 
 --Download best_model.pth and put it into ../model/oc_od/ODOC_BMVC_48_bs_beta_0.1_base_lr_0.006/
 
-Link: 
+Link: https://drive.google.com/file/d/1GhBDphV4VUQ7KdxwC6kgzQO3Q-uSq3dn/view?usp=sharing
 
 --The index of test data is in oc_od/h5py_all/test.txt
 
@@ -36,7 +36,7 @@ Link:
 
 --Download best_model.pth and put into ../model/poly/polys_BMVC_48_bs_beta_0.1_base_lr_0.006/
 
-Link: 
+Link: https://drive.google.com/file/d/18J-OMrt65YOGrAm_id4adzoc0CkblBfT/view?usp=sharing
 
 --The index of test data is in poly/h5py_all/test.txt
 

@@ -23,7 +23,7 @@ Link: https://drive.google.com/file/d/1GhBDphV4VUQ7KdxwC6kgzQO3Q-uSq3dn/view?usp
 
 # -train-
 
---The index of train data is in oc_od/h5py_all/train.txt
+--The index of train_val data is in oc_od/h5py_all/train.txt
 
 --Prepare the Train data, then put them into your_folder/oc_od/h5py_all
 
@@ -48,7 +48,7 @@ Link: https://drive.google.com/file/d/18J-OMrt65YOGrAm_id4adzoc0CkblBfT/view?usp
 
 # -train-
 
---The index of train data is in poly/h5py_all/train.txt
+--The index of train_val data is in poly/h5py_all/train.txt
 
 --Prepare the Train data, then put them into your_folder/poly/h5py_all
 

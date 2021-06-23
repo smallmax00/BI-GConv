@@ -33,6 +33,7 @@ Link: https://drive.google.com/file/d/1GhBDphV4VUQ7KdxwC6kgzQO3Q-uSq3dn/view?usp
 
 --------------Polys-----------------
 ---------------------------------
+# -test-
 
 --Download best_model.pth and put into ../model/poly/polys_BMVC_48_bs_beta_0.1_base_lr_0.006/
 

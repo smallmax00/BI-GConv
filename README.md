@@ -2,7 +2,11 @@
 # BI-GConv_BMVC2021_submission
 
 ---------------------------
-Dependencies: requirements.txt
+Necassary Dependencies: 
+
+pytorch 1.2.0
+python 3.6
+        
 
 
 

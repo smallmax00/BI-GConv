@@ -1,5 +1,5 @@
 # BI-GConv: Boundary-Aware Input-Dependent Graph Convolution for Biomedical Image Segmentation 
-# BI-GConv_BMVC2021_submission
+# BMVC 2021
 
 ---------------------------
 Necassary Dependencies: PyTorch 1.2.0  Python 3.6

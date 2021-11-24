@@ -150,6 +150,6 @@ class ODOC_seg_edge(nn.Module):
         seg_output = torch.sigmoid(seg)
 
 
-        return seg_output, torch.sigmoid(edge_feat)
+        return seg_output, torch.sigmoid(edge_feat) 
 
 

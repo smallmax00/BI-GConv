@@ -75,7 +75,7 @@ class EAGCN(nn.Module):
         seg_ss = self.conv_s2(maxpool_s.unsqueeze(1)).view(n, 1, -1)  
         edge_mm = self.conv_s3(edge_m_pool.unsqueeze(1)).view(n, -1, 1)
 
-        diag_spatial_att = torch.bmm(torch.bmm(edge_mm, seg_ss), sigma_out)
+        diag_spatial_att = torch.bmm(edge_mm, seg_ss) * sigma_out
         similarity_s = self.softmax(diag_spatial_att)
         similarity = similarity_c + similarity_s
 

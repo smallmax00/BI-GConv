@@ -42,5 +42,3 @@ If you find our work useful or our work gives you any insights, please cite:
 }
 
 ```
-
-

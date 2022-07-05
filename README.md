@@ -34,11 +34,26 @@ Link: https://drive.google.com/file/d/1GhBDphV4VUQ7KdxwC6kgzQO3Q-uSq3dn/view?usp
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
 ```
-@InProceedings{Meng_2021_BMVC,
-    author    = {Meng, Yanda and Zhang, Hongrun and Gao, Dongxu and Zhao, Yitian and Yang, Xiaoyun and Qian, Xuesheng and Huang, Xiaowei and Zheng, Yalin},
-    title     = {BI-GConv: Boundary-Aware Input-Dependent Graph Convolution for Biomedical Image Segmentation},
-    booktitle = {BMVC},
-    year      = {2021},
+@inproceedings{DBLP:conf/bmvc/MengZGZYQ0Z21,
+  author    = {Yanda Meng and
+               Hongrun Zhang and
+               Dongxu Gao and
+               Yitian Zhao and
+               Xiaoyun Yang and
+               Xuesheng Qian and
+               Xiaowei Huang and
+               Yalin Zheng},
+  title     = {{BI-GCN:} Boundary-Aware Input-Dependent Graph Convolution Network
+               for Biomedical Image Segmentation},
+  booktitle = {32nd British Machine Vision Conference 2021, {BMVC} 2021, Online,
+               November 22-25, 2021},
+  pages     = {223},
+  publisher = {{BMVA} Press},
+  year      = {2021},
+  url       = {https://www.bmvc2021-virtualconference.com/assets/papers/0097.pdf},
+  timestamp = {Wed, 22 Jun 2022 16:52:45 +0200},
+  biburl    = {https://dblp.org/rec/conf/bmvc/MengZGZYQ0Z21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 ```
